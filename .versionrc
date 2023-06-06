@@ -1,0 +1,18 @@
+
+    {
+        "bumpFiles": [
+            {
+               "filename": "package.json",
+                "type": "json"
+            }, 
+            {
+                "filename": "actual_pago_proveedores/__manifest__.py",
+                "updater": "standard-version-updater.js"
+            },
+            {
+                "filename": "README.md",
+                "updater": "standard-version-updater.js"
+            }
+        ]
+    }
+    

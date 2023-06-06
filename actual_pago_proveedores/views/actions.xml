@@ -1,0 +1,21 @@
+<odoo>
+  <data>
+
+    <record id="action_actual_wizard_pagos" model="ir.actions.server">
+      <field name="name">Generar layout de pagos</field>
+      <field name="model_id" ref="model_account_payment" />
+      <field name="binding_view_types">list</field>
+      <field name="state">code</field>
+      <field name="code">action=record.abrir_wizard()</field>
+    </record>
+
+    <record id="action_actual_wizard_altas_bajas" model="ir.actions.server">
+      <field name="name">Generar layout de altas/bajas</field>
+      <field name="model_id" ref="model_res_partner" />
+      <field name="binding_view_types">list</field>
+      <field name="state">code</field>
+      <field name="code">action=record.abrir_wizard()</field>
+    </record>
+
+  </data>
+</odoo>

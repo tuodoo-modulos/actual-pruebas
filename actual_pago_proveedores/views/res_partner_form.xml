@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="actual_res_partner_form" model="ir.ui.view">
+        <field name="name">actual.res.partner.form</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="account.view_partner_property_form" />
+        <field name="arch" type="xml">
+            <xpath expr="//group[@name='banks']" position="inside">
+                <field name="es_tipo_convenio" />
+            </xpath>
+        </field>
+    </record>
+
+</odoo>

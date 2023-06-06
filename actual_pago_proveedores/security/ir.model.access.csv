@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_actual_wizard_pagos,actual.wizard.pagos,model_actual_wizard_pagos,base.group_user,1,1,1,1
+access_actual_wizard_altas_bajas,actual.wizard.altas_bajas,model_actual_wizard_altas_bajas,base.group_user,1,1,1,1
+access_actual_adjuntos_pagos,actual.adjuntos.pagos,model_actual_adjuntos_pagos,base.group_user,1,1,1,1

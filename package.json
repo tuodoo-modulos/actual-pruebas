@@ -1,0 +1,15 @@
+{
+  "name": "actual_pago_proveedores",
+  "version": "1.0.0",
+  "description": "> Agregue aquí una descripción del modulo.",
+  "main": "standard-version-updater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version && git push --follow-tags"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}

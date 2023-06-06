@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <data>
+
+
+        <record id="actual_wizard_pagos_view_form" model="ir.ui.view">
+            <field name="name">actual.wizard.pagos.view.form</field>
+            <field name="model">actual.wizard.pagos</field>
+            <field name="arch" type="xml">
+                <form string="">
+                    <sheet>
+                        <group>
+
+                            <group>
+                                <h1>Generar listas de pago</h1>
+                            </group>
+                            <group>
+                                <field name="fecha_de_aplicacion" />
+                            </group>
+
+                        </group>
+                    </sheet>
+                    <footer>
+                        <button name="pago_simplificado" type="object" string="Pago simplificado" />
+                        <button name="pago_convenio" type="object" string="Pago convenio" />
+                    </footer>
+                </form>
+            </field>
+        </record>
+
+
+    </data>
+
+
+</odoo>
