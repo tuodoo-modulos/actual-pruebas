@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record
+        id="action_actual_catalogo_convenio_tree"
+        model="ir.actions.act_window">
+        <field name="name">Actual | Catálogo de convenios</field>
+        <field name="res_model">actual.catalogo.convenio</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- <field name="view_id" ref="actual_catalogos_convenios_view_tree" /> -->
+    <menuitem
+        id="catalogo_convenios_menu"
+        name="Actual | Catálogo de convenios"
+        parent="account.menu_finance_payables"
+        action="action_actual_catalogo_convenio_tree"
+        sequence="10"
+    />
+
+
+</odoo>

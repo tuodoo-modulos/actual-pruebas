@@ -1,6 +1,8 @@
 <odoo>
   <data>
 
+    <!-- SERVER -->
+
     <record id="action_actual_wizard_pagos" model="ir.actions.server">
       <field name="name">Generar layout de pagos</field>
       <field name="model_id" ref="model_account_payment" />
@@ -17,5 +19,6 @@
       <field name="code">action=record.abrir_wizard()</field>
     </record>
 
+  
   </data>
 </odoo>

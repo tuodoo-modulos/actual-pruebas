@@ -163,7 +163,7 @@ class ActualWizardAltasBajas(models.Model):
         if not bank.currency_id.name:
             return f"No se definio el nombre de la moneda en {bank.currency_id}"
 
-        tipos_de_moneda = ["PESOS", "DOLARES"]
+        tipos_de_moneda = ["MXN", "USD"]
         if bank.currency_id.name not in tipos_de_moneda:
             return f"El nombre de la moneda '{bank.currency_id.name}' no coincide contra los tipos esperados para el layout {', '.join(tipos_de_moneda)}"
 
@@ -312,3 +312,4 @@ class AltaBajaLinea:
     ):
         utilidades = Validaciones()
         utilidades.validar_logintud_maxima(**opciones)
+        return opciones["valor"]

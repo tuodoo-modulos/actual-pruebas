@@ -7,7 +7,6 @@ _logger = logging.getLogger('[ ACTUAL - RES PARTNER]')
 
 class ResPartner(models.Model):
     _inherit = "res.partner"
-    es_tipo_convenio = fields.Boolean()
 
     def abrir_wizard(self):
         return {

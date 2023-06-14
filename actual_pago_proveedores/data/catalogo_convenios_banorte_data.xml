@@ -1,0 +1,3211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odoo>
+    <data>
+
+        <record id="banorte_convenio_a00001" model="actual.catalogo.convenio">
+            <field name="num_facturador">000165</field>
+            <field name="nombre_facturador">TARJETA DE CREDITO</field>
+            <field name="clave_de_facturador">A00001</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE TARJETA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00002" model="actual.catalogo.convenio">
+            <field name="num_facturador">001310</field>
+            <field name="nombre_facturador">TELEFONOS DE MEXICO S.A.B.DE C</field>
+            <field name="clave_de_facturador">A00002</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">TELEFONO + DV </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00003" model="actual.catalogo.convenio">
+            <field name="num_facturador">059232</field>
+            <field name="nombre_facturador">UAS INGRESOS DIARIOS</field>
+            <field name="clave_de_facturador">A00003</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANCARIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00004" model="actual.catalogo.convenio">
+            <field name="num_facturador">037478</field>
+            <field name="nombre_facturador">TELCEL (RADIO MOVIL DIPSA)</field>
+            <field name="clave_de_facturador">A00004</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00005" model="actual.catalogo.convenio">
+            <field name="num_facturador">002230</field>
+            <field name="nombre_facturador">AMERICAN EXPRESS CO MEXICO</field>
+            <field name="clave_de_facturador">A00005</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE TARJETA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00006" model="actual.catalogo.convenio">
+            <field name="num_facturador">004154</field>
+            <field name="nombre_facturador">PAGO DE IMPUESTOS GOBIERNO DE LA CDMX</field>
+            <field name="clave_de_facturador">A00006</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00007" model="actual.catalogo.convenio">
+            <field name="num_facturador">000009</field>
+            <field name="nombre_facturador">LIVERPOOL</field>
+            <field name="clave_de_facturador">A00007</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE TARJETA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00008" model="actual.catalogo.convenio">
+            <field name="num_facturador">001895</field>
+            <field name="nombre_facturador">COMPARTAMOS BANCO</field>
+            <field name="clave_de_facturador">A00008</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00009" model="actual.catalogo.convenio">
+            <field name="num_facturador">061711</field>
+            <field name="nombre_facturador">UNIVERSIDAD AUT COAH SERV ESCO</field>
+            <field name="clave_de_facturador">A00009</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00010" model="actual.catalogo.convenio">
+            <field name="num_facturador">003600</field>
+            <field name="nombre_facturador">CONTRIBUCIONES OAXACA</field>
+            <field name="clave_de_facturador">A00010</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00011" model="actual.catalogo.convenio">
+            <field name="num_facturador">031815</field>
+            <field name="nombre_facturador">CHUBB (ANTES ABA)</field>
+            <field name="clave_de_facturador">A00011</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE POLIZA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00012" model="actual.catalogo.convenio">
+            <field name="num_facturador">031681</field>
+            <field name="nombre_facturador">GOBIERNO DEL ESTADO DE MEXICO(</field>
+            <field name="clave_de_facturador">A00012</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00013" model="actual.catalogo.convenio">
+            <field name="num_facturador">045473</field>
+            <field name="nombre_facturador">NATURA</field>
+            <field name="clave_de_facturador">A00013</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00014" model="actual.catalogo.convenio">
+            <field name="num_facturador">000439</field>
+            <field name="nombre_facturador">IMPUESTO SOBRE NOMINA MONTERRE</field>
+            <field name="clave_de_facturador">A00014</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANCARIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00015" model="actual.catalogo.convenio">
+            <field name="num_facturador">003169</field>
+            <field name="nombre_facturador">UNIVERSIDAD DE GUADALAJARA</field>
+            <field name="clave_de_facturador">A00015</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00016" model="actual.catalogo.convenio">
+            <field name="num_facturador">008213</field>
+            <field name="nombre_facturador">U.A.T.(TODAS LAS FACULTADES)</field>
+            <field name="clave_de_facturador">A00016</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA 1 </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00017" model="actual.catalogo.convenio">
+            <field name="num_facturador">037914</field>
+            <field name="nombre_facturador">EDENRED</field>
+            <field name="clave_de_facturador">A00017</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00018" model="actual.catalogo.convenio">
+            <field name="num_facturador">095552</field>
+            <field name="nombre_facturador">ICEL CENTRO DE ESTUDIOS UNIVER</field>
+            <field name="clave_de_facturador">A00018</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00019" model="actual.catalogo.convenio">
+            <field name="num_facturador">003078</field>
+            <field name="nombre_facturador">IZZI</field>
+            <field name="clave_de_facturador">A00019</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00020" model="actual.catalogo.convenio">
+            <field name="num_facturador">076306</field>
+            <field name="nombre_facturador">EL PALACIO DE HIERRO</field>
+            <field name="clave_de_facturador">A00020</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE TARJETA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00021" model="actual.catalogo.convenio">
+            <field name="num_facturador">052953</field>
+            <field name="nombre_facturador">QUALITAS COMPANIA DE SEGUROS T</field>
+            <field name="clave_de_facturador">A00021</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00022" model="actual.catalogo.convenio">
+            <field name="num_facturador">045785</field>
+            <field name="nombre_facturador">IFREM PROPIEDAD</field>
+            <field name="clave_de_facturador">A00022</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00023" model="actual.catalogo.convenio">
+            <field name="num_facturador">004102</field>
+            <field name="nombre_facturador">INFONACOT</field>
+            <field name="clave_de_facturador">A00023</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00024" model="actual.catalogo.convenio">
+            <field name="num_facturador">025162</field>
+            <field name="nombre_facturador">FINANZAS (S.F.A.PUEBLA)</field>
+            <field name="clave_de_facturador">A00024</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANCARIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00025" model="actual.catalogo.convenio">
+            <field name="num_facturador">055777</field>
+            <field name="nombre_facturador">AMICSA NUEVA ADMINISTRACION</field>
+            <field name="clave_de_facturador">A00025</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00026" model="actual.catalogo.convenio">
+            <field name="num_facturador">131017</field>
+            <field name="nombre_facturador">GEM ORGANISMOS AUXILIARES</field>
+            <field name="clave_de_facturador">A00026</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00027" model="actual.catalogo.convenio">
+            <field name="num_facturador">024941</field>
+            <field name="nombre_facturador">PAGO CONTRIBUCIONES EST.FED.GO</field>
+            <field name="clave_de_facturador">A00027</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00028" model="actual.catalogo.convenio">
+            <field name="num_facturador">133817</field>
+            <field name="nombre_facturador">CIBANCO S A FIDEICOMISO CIB 59</field>
+            <field name="clave_de_facturador">A00028</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00029" model="actual.catalogo.convenio">
+            <field name="num_facturador">003201</field>
+            <field name="nombre_facturador">FOVISSSTE</field>
+            <field name="clave_de_facturador">A00029</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA FOVISSSTE</field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00030" model="actual.catalogo.convenio">
+            <field name="num_facturador">008254</field>
+            <field name="nombre_facturador">SECRETARIA DE FIN.JALISCO(IMP.</field>
+            <field name="clave_de_facturador">A00030</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00031" model="actual.catalogo.convenio">
+            <field name="num_facturador">109931</field>
+            <field name="nombre_facturador">CETI SERVICIOS</field>
+            <field name="clave_de_facturador">A00031</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00032" model="actual.catalogo.convenio">
+            <field name="num_facturador">002052</field>
+            <field name="nombre_facturador">TOTAL PLAY TELECOMUNICACIONES</field>
+            <field name="clave_de_facturador">A00032</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00033" model="actual.catalogo.convenio">
+            <field name="num_facturador">070103</field>
+            <field name="nombre_facturador">AFIRME</field>
+            <field name="clave_de_facturador">A00033</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00034" model="actual.catalogo.convenio">
+            <field name="num_facturador">061417</field>
+            <field name="nombre_facturador">UASLP (UNIVERSIDAD AUTONOMA DE</field>
+            <field name="clave_de_facturador">A00034</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00035" model="actual.catalogo.convenio">
+            <field name="num_facturador">002550</field>
+            <field name="nombre_facturador">AXA SEGUROS (COBRANZA)</field>
+            <field name="clave_de_facturador">A00035</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00036" model="actual.catalogo.convenio">
+            <field name="num_facturador">002581</field>
+            <field name="nombre_facturador">GNP INFO 9008</field>
+            <field name="clave_de_facturador">A00036</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00037" model="actual.catalogo.convenio">
+            <field name="num_facturador">090194</field>
+            <field name="nombre_facturador">PODER JUDICIAL DEL ESTADO DE N</field>
+            <field name="clave_de_facturador">A00037</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00038" model="actual.catalogo.convenio">
+            <field name="num_facturador">003401</field>
+            <field name="nombre_facturador">UNIVERSIDAD MICHOACANA DE SAN</field>
+            <field name="clave_de_facturador">A00038</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00039" model="actual.catalogo.convenio">
+            <field name="num_facturador">135812</field>
+            <field name="nombre_facturador">ITESM ABONO A CUENTA</field>
+            <field name="clave_de_facturador">A00039</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00040" model="actual.catalogo.convenio">
+            <field name="num_facturador">002412</field>
+            <field name="nombre_facturador">GOBIERNO DEL ESTADO DE TLAXCAL</field>
+            <field name="clave_de_facturador">A00040</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANCARIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00041" model="actual.catalogo.convenio">
+            <field name="num_facturador">003605</field>
+            <field name="nombre_facturador">FTTH DE MEXICO</field>
+            <field name="clave_de_facturador">A00041</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00042" model="actual.catalogo.convenio">
+            <field name="num_facturador">037013</field>
+            <field name="nombre_facturador">ARRENDADORA DATAMOVIL H LOBO A</field>
+            <field name="clave_de_facturador">A00042</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00043" model="actual.catalogo.convenio">
+            <field name="num_facturador">003846</field>
+            <field name="nombre_facturador">TECNOLOGICO INSCRIPCIONES</field>
+            <field name="clave_de_facturador">A00043</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00044" model="actual.catalogo.convenio">
+            <field name="num_facturador">006681</field>
+            <field name="nombre_facturador">FINANCIERA NACIONAL DE DESARRO</field>
+            <field name="clave_de_facturador">A00044</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00045" model="actual.catalogo.convenio">
+            <field name="num_facturador">015968</field>
+            <field name="nombre_facturador">MOLINOS AZTECA NUEVO LEON</field>
+            <field name="clave_de_facturador">A00045</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00046" model="actual.catalogo.convenio">
+            <field name="num_facturador">002742</field>
+            <field name="nombre_facturador">TOTAL PLAY TELECOMUNICACIONES</field>
+            <field name="clave_de_facturador">A00046</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00047" model="actual.catalogo.convenio">
+            <field name="num_facturador">096952</field>
+            <field name="nombre_facturador">GOBIERNO DE QUINTANA ROO</field>
+            <field name="clave_de_facturador">A00047</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00048" model="actual.catalogo.convenio">
+            <field name="num_facturador">014082</field>
+            <field name="nombre_facturador">TOYOTA FINANCIAL SERVICES MEXI</field>
+            <field name="clave_de_facturador">A00048</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CREDITO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00049" model="actual.catalogo.convenio">
+            <field name="num_facturador">051106</field>
+            <field name="nombre_facturador">ADG ADMINISTRACION DE INMUEBLE</field>
+            <field name="clave_de_facturador">A00049</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANORTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00050" model="actual.catalogo.convenio">
+            <field name="num_facturador">060422</field>
+            <field name="nombre_facturador">UNIVER GUADALAJARA</field>
+            <field name="clave_de_facturador">A00050</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00051" model="actual.catalogo.convenio">
+            <field name="num_facturador">014298</field>
+            <field name="nombre_facturador">SIAPA (AGUA POTABLE DE GUADALA</field>
+            <field name="clave_de_facturador">A00051</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00052" model="actual.catalogo.convenio">
+            <field name="num_facturador">008469</field>
+            <field name="nombre_facturador">COMERCIALIZADORA METRO GAS</field>
+            <field name="clave_de_facturador">A00052</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00053" model="actual.catalogo.convenio">
+            <field name="num_facturador">064471</field>
+            <field name="nombre_facturador">RECAUDACION ISN</field>
+            <field name="clave_de_facturador">A00053</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00054" model="actual.catalogo.convenio">
+            <field name="num_facturador">051794</field>
+            <field name="nombre_facturador">PRONOSTICOS</field>
+            <field name="clave_de_facturador">A00054</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE AGENTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00055" model="actual.catalogo.convenio">
+            <field name="num_facturador">130270</field>
+            <field name="nombre_facturador">ICEST CAMPUS TAMPICO</field>
+            <field name="clave_de_facturador">A00055</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00056" model="actual.catalogo.convenio">
+            <field name="num_facturador">000527</field>
+            <field name="nombre_facturador">CONALEP 527 DIRECCION GENERAL</field>
+            <field name="clave_de_facturador">A00056</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00057" model="actual.catalogo.convenio">
+            <field name="num_facturador">002549</field>
+            <field name="nombre_facturador">AXA MIT</field>
+            <field name="clave_de_facturador">A00057</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00058" model="actual.catalogo.convenio">
+            <field name="num_facturador">002637</field>
+            <field name="nombre_facturador">MAPFRE TEPEYAC</field>
+            <field name="clave_de_facturador">A00058</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00059" model="actual.catalogo.convenio">
+            <field name="num_facturador">012078</field>
+            <field name="nombre_facturador">GOBIERNO EDO HGO PAGO DE IMP</field>
+            <field name="clave_de_facturador">A00059</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANCARIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00060" model="actual.catalogo.convenio">
+            <field name="num_facturador">128191</field>
+            <field name="nombre_facturador">YASTAS</field>
+            <field name="clave_de_facturador">A00060</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00061" model="actual.catalogo.convenio">
+            <field name="num_facturador">003203</field>
+            <field name="nombre_facturador">TELNOR</field>
+            <field name="clave_de_facturador">A00061</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CLAVE LADA Y TELEFONO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00062" model="actual.catalogo.convenio">
+            <field name="num_facturador">083602</field>
+            <field name="nombre_facturador">UNIVERSIDAD POLITECNICA DE PAC</field>
+            <field name="clave_de_facturador">A00062</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00063" model="actual.catalogo.convenio">
+            <field name="num_facturador">001090</field>
+            <field name="nombre_facturador">AXTEL SAB DE CV ANTES ALESTRA</field>
+            <field name="clave_de_facturador">A00063</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANORTE 16 DIGITOS </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00064" model="actual.catalogo.convenio">
+            <field name="num_facturador">002151</field>
+            <field name="nombre_facturador">COLEGIO DE BACHILLERES DEL EST</field>
+            <field name="clave_de_facturador">A00064</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00065" model="actual.catalogo.convenio">
+            <field name="num_facturador">046795</field>
+            <field name="nombre_facturador">MONEDEROS PUNTO CLAVE</field>
+            <field name="clave_de_facturador">A00065</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00066" model="actual.catalogo.convenio">
+            <field name="num_facturador">000774</field>
+            <field name="nombre_facturador">FINANZAS SLP IMPUESTO NOMINA</field>
+            <field name="clave_de_facturador">A00066</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00067" model="actual.catalogo.convenio">
+            <field name="num_facturador">083238</field>
+            <field name="nombre_facturador">USUARIOS BANORTE</field>
+            <field name="clave_de_facturador">A00067</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00068" model="actual.catalogo.convenio">
+            <field name="num_facturador">004814</field>
+            <field name="nombre_facturador">GOBIERNO DEL ESTADO DE SONORA</field>
+            <field name="clave_de_facturador">A00068</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00069" model="actual.catalogo.convenio">
+            <field name="num_facturador">003725</field>
+            <field name="nombre_facturador">SIPE MUNICIPIO DE IXTAPALUCA</field>
+            <field name="clave_de_facturador">A00069</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00070" model="actual.catalogo.convenio">
+            <field name="num_facturador">002621</field>
+            <field name="nombre_facturador">INTERCAM BANCO</field>
+            <field name="clave_de_facturador">A00070</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00071" model="actual.catalogo.convenio">
+            <field name="num_facturador">002357</field>
+            <field name="nombre_facturador">OPD S INSTITUTOS Y UNIVERSIDAD</field>
+            <field name="clave_de_facturador">A00071</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00072" model="actual.catalogo.convenio">
+            <field name="num_facturador">006688</field>
+            <field name="nombre_facturador">COBACH BCS</field>
+            <field name="clave_de_facturador">A00072</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANCARIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00073" model="actual.catalogo.convenio">
+            <field name="num_facturador">002292</field>
+            <field name="nombre_facturador">AXTEL S.A.DE CV</field>
+            <field name="clave_de_facturador">A00073</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00074" model="actual.catalogo.convenio">
+            <field name="num_facturador">135804</field>
+            <field name="nombre_facturador">EISAC ABONO A CUENTA</field>
+            <field name="clave_de_facturador">A00074</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00075" model="actual.catalogo.convenio">
+            <field name="num_facturador">144949</field>
+            <field name="nombre_facturador">UNIVERSIDAD TECNOLOGICA DE JAL</field>
+            <field name="clave_de_facturador">A00075</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00076" model="actual.catalogo.convenio">
+            <field name="num_facturador">002320</field>
+            <field name="nombre_facturador">BACHOCO</field>
+            <field name="clave_de_facturador">A00076</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00077" model="actual.catalogo.convenio">
+            <field name="num_facturador">062251</field>
+            <field name="nombre_facturador">GOBIERNO DEL EDO.DE MEXICO IMP</field>
+            <field name="clave_de_facturador">A00077</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">GEM IMPUESTO SOBRE NOMINA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00078" model="actual.catalogo.convenio">
+            <field name="num_facturador">002855</field>
+            <field name="nombre_facturador">BACHILLERATO EN LINEA</field>
+            <field name="clave_de_facturador">A00078</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00079" model="actual.catalogo.convenio">
+            <field name="num_facturador">003541</field>
+            <field name="nombre_facturador">BANCO INVEX SA FIDEICOMISO 313</field>
+            <field name="clave_de_facturador">A00079</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00080" model="actual.catalogo.convenio">
+            <field name="num_facturador">040008</field>
+            <field name="nombre_facturador">I D MEXICO</field>
+            <field name="clave_de_facturador">A00080</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00081" model="actual.catalogo.convenio">
+            <field name="num_facturador">029942</field>
+            <field name="nombre_facturador">AFASA EMPRESA 29942</field>
+            <field name="clave_de_facturador">A00081</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00082" model="actual.catalogo.convenio">
+            <field name="num_facturador">003053</field>
+            <field name="nombre_facturador">UANL(CONCURSO DE INGRESO)EXAME</field>
+            <field name="clave_de_facturador">A00082</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REGISTRO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00083" model="actual.catalogo.convenio">
+            <field name="num_facturador">002397</field>
+            <field name="nombre_facturador">ANA COMPAáIA DE SEGUROS</field>
+            <field name="clave_de_facturador">A00083</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00084" model="actual.catalogo.convenio">
+            <field name="num_facturador">131472</field>
+            <field name="nombre_facturador">ULA</field>
+            <field name="clave_de_facturador">A00084</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00085" model="actual.catalogo.convenio">
+            <field name="num_facturador">089805</field>
+            <field name="nombre_facturador">SUFIRMA</field>
+            <field name="clave_de_facturador">A00085</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00086" model="actual.catalogo.convenio">
+            <field name="num_facturador">142197</field>
+            <field name="nombre_facturador">UNIVERSIDAD TLACAELEL</field>
+            <field name="clave_de_facturador">A00086</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00087" model="actual.catalogo.convenio">
+            <field name="num_facturador">003214</field>
+            <field name="nombre_facturador">UTNC</field>
+            <field name="clave_de_facturador">A00087</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00088" model="actual.catalogo.convenio">
+            <field name="num_facturador">053971</field>
+            <field name="nombre_facturador">METLIFE MEXICO</field>
+            <field name="clave_de_facturador">A00088</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00089" model="actual.catalogo.convenio">
+            <field name="num_facturador">042116</field>
+            <field name="nombre_facturador">MOLINOS AZTECA DE CHALCO</field>
+            <field name="clave_de_facturador">A00089</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00090" model="actual.catalogo.convenio">
+            <field name="num_facturador">002552</field>
+            <field name="nombre_facturador">UNIDEP PARCIALIDADES</field>
+            <field name="clave_de_facturador">A00090</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00091" model="actual.catalogo.convenio">
+            <field name="num_facturador">001787</field>
+            <field name="nombre_facturador">KU BO FINANCIERO</field>
+            <field name="clave_de_facturador">A00091</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00092" model="actual.catalogo.convenio">
+            <field name="num_facturador">002520</field>
+            <field name="nombre_facturador">KAPITALMUJER SA DE CV SOFOM EN</field>
+            <field name="clave_de_facturador">A00092</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00093" model="actual.catalogo.convenio">
+            <field name="num_facturador">058023</field>
+            <field name="nombre_facturador">SCOUTS DE MEXICO</field>
+            <field name="clave_de_facturador">A00093</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00094" model="actual.catalogo.convenio">
+            <field name="num_facturador">091520</field>
+            <field name="nombre_facturador">BANCO AUTOFIN MEXICO</field>
+            <field name="clave_de_facturador">A00094</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BAM </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00095" model="actual.catalogo.convenio">
+            <field name="num_facturador">037325</field>
+            <field name="nombre_facturador">TECNOLOGICO DE ACAPULCO(INSCRI</field>
+            <field name="clave_de_facturador">A00095</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CONTROL </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00096" model="actual.catalogo.convenio">
+            <field name="num_facturador">147938</field>
+            <field name="nombre_facturador">DON APOYO</field>
+            <field name="clave_de_facturador">A00096</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CREDITO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00097" model="actual.catalogo.convenio">
+            <field name="num_facturador">001961</field>
+            <field name="nombre_facturador">ISERTP</field>
+            <field name="clave_de_facturador">A00097</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANCARIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00098" model="actual.catalogo.convenio">
+            <field name="num_facturador">002632</field>
+            <field name="nombre_facturador">DEPOSITOS UMO</field>
+            <field name="clave_de_facturador">A00098</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00099" model="actual.catalogo.convenio">
+            <field name="num_facturador">082600</field>
+            <field name="nombre_facturador">AGUA POTABLE (TIJUANA)</field>
+            <field name="clave_de_facturador">A00099</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00100" model="actual.catalogo.convenio">
+            <field name="num_facturador">003143</field>
+            <field name="nombre_facturador">CFE SSB BAJIO VIGENTE</field>
+            <field name="clave_de_facturador">A00100</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00101" model="actual.catalogo.convenio">
+            <field name="num_facturador">039195</field>
+            <field name="nombre_facturador">UNIVERSIDAD AUTONOMA DE NAYARI</field>
+            <field name="clave_de_facturador">A00101</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00102" model="actual.catalogo.convenio">
+            <field name="num_facturador">005112</field>
+            <field name="nombre_facturador">TENENCIAS E IMP.ESTATALES(AGUA</field>
+            <field name="clave_de_facturador">A00102</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANORTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00103" model="actual.catalogo.convenio">
+            <field name="num_facturador">012833</field>
+            <field name="nombre_facturador">AT&amp;T COMERCIALIZACION MOVIL</field>
+            <field name="clave_de_facturador">A00103</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00104" model="actual.catalogo.convenio">
+            <field name="num_facturador">095395</field>
+            <field name="nombre_facturador">BANCO BASE MN</field>
+            <field name="clave_de_facturador">A00104</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUBA/CD </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00105" model="actual.catalogo.convenio">
+            <field name="num_facturador">026180</field>
+            <field name="nombre_facturador">SWISSJUST</field>
+            <field name="clave_de_facturador">A00105</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00106" model="actual.catalogo.convenio">
+            <field name="num_facturador">002798</field>
+            <field name="nombre_facturador">UANL FIME CURSOS DE ASESORIA</field>
+            <field name="clave_de_facturador">A00106</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00107" model="actual.catalogo.convenio">
+            <field name="num_facturador">083780</field>
+            <field name="nombre_facturador">VECTOR CASA DE BOLSA</field>
+            <field name="clave_de_facturador">A00107</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00108" model="actual.catalogo.convenio">
+            <field name="num_facturador">002869</field>
+            <field name="nombre_facturador">GAS NATURAL DEL NOROESTE</field>
+            <field name="clave_de_facturador">A00108</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CONTRATO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00109" model="actual.catalogo.convenio">
+            <field name="num_facturador">092809</field>
+            <field name="nombre_facturador">ICA</field>
+            <field name="clave_de_facturador">A00109</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00110" model="actual.catalogo.convenio">
+            <field name="num_facturador">036674</field>
+            <field name="nombre_facturador">GAS METROPOLITANO</field>
+            <field name="clave_de_facturador">A00110</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DEL CLIENTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00111" model="actual.catalogo.convenio">
+            <field name="num_facturador">077508</field>
+            <field name="nombre_facturador">TUPPERWARE</field>
+            <field name="clave_de_facturador">A00111</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">FUERZA DE VENTAS </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00112" model="actual.catalogo.convenio">
+            <field name="num_facturador">138508</field>
+            <field name="nombre_facturador">SEGUROS ATLAS</field>
+            <field name="clave_de_facturador">A00112</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00113" model="actual.catalogo.convenio">
+            <field name="num_facturador">046816</field>
+            <field name="nombre_facturador">COPEMSA BOLETAJE</field>
+            <field name="clave_de_facturador">A00113</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE ESTACIONAMIENTO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00114" model="actual.catalogo.convenio">
+            <field name="num_facturador">135471</field>
+            <field name="nombre_facturador">ALTERNATIVA 19 DEL SUR RECAUDA</field>
+            <field name="clave_de_facturador">A00114</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">PAGO CLIENTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00115" model="actual.catalogo.convenio">
+            <field name="num_facturador">002267</field>
+            <field name="nombre_facturador">CFE SSB CENTRO SUR CARTERA VIG</field>
+            <field name="clave_de_facturador">A00115</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00116" model="actual.catalogo.convenio">
+            <field name="num_facturador">046505</field>
+            <field name="nombre_facturador">SECRETARIA DE FIN.IMP./NOMINA(</field>
+            <field name="clave_de_facturador">A00116</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00117" model="actual.catalogo.convenio">
+            <field name="num_facturador">002626</field>
+            <field name="nombre_facturador">MARY KAY</field>
+            <field name="clave_de_facturador">A00117</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA MARY KAY </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00118" model="actual.catalogo.convenio">
+            <field name="num_facturador">039663</field>
+            <field name="nombre_facturador">A CRECER EUM</field>
+            <field name="clave_de_facturador">A00118</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00119" model="actual.catalogo.convenio">
+            <field name="num_facturador">047532</field>
+            <field name="nombre_facturador">HARINERA DE VERACRUZ</field>
+            <field name="clave_de_facturador">A00119</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00120" model="actual.catalogo.convenio">
+            <field name="num_facturador">051347</field>
+            <field name="nombre_facturador">UNACH INSCRIPCIONES</field>
+            <field name="clave_de_facturador">A00120</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CLAVE DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00121" model="actual.catalogo.convenio">
+            <field name="num_facturador">031019</field>
+            <field name="nombre_facturador">SAPASA (SERVICIOS DE AGUA POTA</field>
+            <field name="clave_de_facturador">A00121</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00122" model="actual.catalogo.convenio">
+            <field name="num_facturador">062626</field>
+            <field name="nombre_facturador">TESOFE 06 600 LINEA DE CAPTURA</field>
+            <field name="clave_de_facturador">A00122</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00123" model="actual.catalogo.convenio">
+            <field name="num_facturador">082435</field>
+            <field name="nombre_facturador">SAPAL</field>
+            <field name="clave_de_facturador">A00123</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CUENTA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00124" model="actual.catalogo.convenio">
+            <field name="num_facturador">104602</field>
+            <field name="nombre_facturador">IMPUESTOS NUEVO LEON</field>
+            <field name="clave_de_facturador">A00124</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00125" model="actual.catalogo.convenio">
+            <field name="num_facturador">124765</field>
+            <field name="nombre_facturador">UNIVERSIDAD UNIVER MILENIUM DE</field>
+            <field name="clave_de_facturador">A00125</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA 1 </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00126" model="actual.catalogo.convenio">
+            <field name="num_facturador">144063</field>
+            <field name="nombre_facturador">INSTITUTO FRANCES</field>
+            <field name="clave_de_facturador">A00126</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00127" model="actual.catalogo.convenio">
+            <field name="num_facturador">000050</field>
+            <field name="nombre_facturador">PRIMERO SEGUROS</field>
+            <field name="clave_de_facturador">A00127</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00128" model="actual.catalogo.convenio">
+            <field name="num_facturador">027756</field>
+            <field name="nombre_facturador">IES</field>
+            <field name="clave_de_facturador">A00128</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00129" model="actual.catalogo.convenio">
+            <field name="num_facturador">036945</field>
+            <field name="nombre_facturador">CAASIM</field>
+            <field name="clave_de_facturador">A00129</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CUENTA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00130" model="actual.catalogo.convenio">
+            <field name="num_facturador">145057</field>
+            <field name="nombre_facturador">LATINOAMERICANA SEGUROS</field>
+            <field name="clave_de_facturador">A00130</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00131" model="actual.catalogo.convenio">
+            <field name="num_facturador">076172</field>
+            <field name="nombre_facturador">COBACH(COL DE BACHILLERES D CH</field>
+            <field name="clave_de_facturador">A00131</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CLAVE DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00132" model="actual.catalogo.convenio">
+            <field name="num_facturador">136026</field>
+            <field name="nombre_facturador">ITESM PAGOS VARIOS</field>
+            <field name="clave_de_facturador">A00132</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00133" model="actual.catalogo.convenio">
+            <field name="num_facturador">044032</field>
+            <field name="nombre_facturador">SEFINA (IMPUESTO ESTATAL DE GU</field>
+            <field name="clave_de_facturador">A00133</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CLAVE REFERENCIADA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00134" model="actual.catalogo.convenio">
+            <field name="num_facturador">059544</field>
+            <field name="nombre_facturador">GRUPO OBELISCO</field>
+            <field name="clave_de_facturador">A00134</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00135" model="actual.catalogo.convenio">
+            <field name="num_facturador">029991</field>
+            <field name="nombre_facturador">IMPUESTOS ESTATALES NAYARIT</field>
+            <field name="clave_de_facturador">A00135</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00136" model="actual.catalogo.convenio">
+            <field name="num_facturador">048421</field>
+            <field name="nombre_facturador">PAGO DE IMPUESTOS TABASCO</field>
+            <field name="clave_de_facturador">A00136</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00137" model="actual.catalogo.convenio">
+            <field name="num_facturador">041234</field>
+            <field name="nombre_facturador">HARINERA DE MAIZ DE JALISCO</field>
+            <field name="clave_de_facturador">A00137</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00138" model="actual.catalogo.convenio">
+            <field name="num_facturador">089991</field>
+            <field name="nombre_facturador">BIENES PROGRAMADOS</field>
+            <field name="clave_de_facturador">A00138</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA DE PAGO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00139" model="actual.catalogo.convenio">
+            <field name="num_facturador">036219</field>
+            <field name="nombre_facturador">ASEGURADORA ASERTA</field>
+            <field name="clave_de_facturador">A00139</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">POLIZA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00140" model="actual.catalogo.convenio">
+            <field name="num_facturador">057963</field>
+            <field name="nombre_facturador">COLEGIO LUCERNA</field>
+            <field name="clave_de_facturador">A00140</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00141" model="actual.catalogo.convenio">
+            <field name="num_facturador">021831</field>
+            <field name="nombre_facturador">MOLINOS AZTECA RIO BRAVO</field>
+            <field name="clave_de_facturador">A00141</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00142" model="actual.catalogo.convenio">
+            <field name="num_facturador">016250</field>
+            <field name="nombre_facturador">UACJ ARTES Y OFICIOS</field>
+            <field name="clave_de_facturador">A00142</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00143" model="actual.catalogo.convenio">
+            <field name="num_facturador">056044</field>
+            <field name="nombre_facturador">SEGUROS EL POTOSI</field>
+            <field name="clave_de_facturador">A00143</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00144" model="actual.catalogo.convenio">
+            <field name="num_facturador">022380</field>
+            <field name="nombre_facturador">CASA DE BOLSA BANORTE SA DE CV</field>
+            <field name="clave_de_facturador">A00144</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00145" model="actual.catalogo.convenio">
+            <field name="num_facturador">069195</field>
+            <field name="nombre_facturador">U DE O VERACRUZ</field>
+            <field name="clave_de_facturador">A00145</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00146" model="actual.catalogo.convenio">
+            <field name="num_facturador">050223</field>
+            <field name="nombre_facturador">SICREA</field>
+            <field name="clave_de_facturador">A00146</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00147" model="actual.catalogo.convenio">
+            <field name="num_facturador">091234</field>
+            <field name="nombre_facturador">BANCO INVEX FIDEICOMISO 1055</field>
+            <field name="clave_de_facturador">A00147</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00148" model="actual.catalogo.convenio">
+            <field name="num_facturador">028144</field>
+            <field name="nombre_facturador">IMPUESTOS ESTATALES YUCATAN</field>
+            <field name="clave_de_facturador">A00148</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA REF BANCARIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00149" model="actual.catalogo.convenio">
+            <field name="num_facturador">003539</field>
+            <field name="nombre_facturador">AT&amp;T COMERCIALIZACION MOVIL</field>
+            <field name="clave_de_facturador">A00149</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00150" model="actual.catalogo.convenio">
+            <field name="num_facturador">003800</field>
+            <field name="nombre_facturador">UNIVERSIDAD DE MTY TRANSPORTE</field>
+            <field name="clave_de_facturador">A00150</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00151" model="actual.catalogo.convenio">
+            <field name="num_facturador">057261</field>
+            <field name="nombre_facturador">IMPUESTOS Y SERVICIOS DE NUEVO</field>
+            <field name="clave_de_facturador">A00151</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00152" model="actual.catalogo.convenio">
+            <field name="num_facturador">003652</field>
+            <field name="nombre_facturador">CAERUS</field>
+            <field name="clave_de_facturador">A00152</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00153" model="actual.catalogo.convenio">
+            <field name="num_facturador">006441</field>
+            <field name="nombre_facturador">SPF AUTODETERMINABLES VIA INTE</field>
+            <field name="clave_de_facturador">A00153</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE OPERACION </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00154" model="actual.catalogo.convenio">
+            <field name="num_facturador">003068</field>
+            <field name="nombre_facturador">FISCALIA GENERAL DEL ESTADO DE</field>
+            <field name="clave_de_facturador">A00154</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00155" model="actual.catalogo.convenio">
+            <field name="num_facturador">003472</field>
+            <field name="nombre_facturador">ECO GASOLINA EN RED</field>
+            <field name="clave_de_facturador">A00155</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00156" model="actual.catalogo.convenio">
+            <field name="num_facturador">000072</field>
+            <field name="nombre_facturador">EDICIONES CULTURALES INTERNACI</field>
+            <field name="clave_de_facturador">A00156</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANORTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00157" model="actual.catalogo.convenio">
+            <field name="num_facturador">001800</field>
+            <field name="nombre_facturador">BANCO INVEX SA FIDEICOMISO 130</field>
+            <field name="clave_de_facturador">A00157</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00158" model="actual.catalogo.convenio">
+            <field name="num_facturador">002361</field>
+            <field name="nombre_facturador">MODATELAS</field>
+            <field name="clave_de_facturador">A00158</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00159" model="actual.catalogo.convenio">
+            <field name="num_facturador">122321</field>
+            <field name="nombre_facturador">UNIVERSIDAD DE GNOSIA</field>
+            <field name="clave_de_facturador">A00159</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00160" model="actual.catalogo.convenio">
+            <field name="num_facturador">046824</field>
+            <field name="nombre_facturador">COPEMSA ESPACIOS</field>
+            <field name="clave_de_facturador">A00160</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CLAVE Y ESTACIONAMIENTO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00161" model="actual.catalogo.convenio">
+            <field name="num_facturador">004491</field>
+            <field name="nombre_facturador">CONDOMIDRACO</field>
+            <field name="clave_de_facturador">A00161</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00162" model="actual.catalogo.convenio">
+            <field name="num_facturador">011490</field>
+            <field name="nombre_facturador">GOBIERNO EDO DE COLIMA REPECO</field>
+            <field name="clave_de_facturador">A00162</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00163" model="actual.catalogo.convenio">
+            <field name="num_facturador">075290</field>
+            <field name="nombre_facturador">VITROCAR</field>
+            <field name="clave_de_facturador">A00163</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00164" model="actual.catalogo.convenio">
+            <field name="num_facturador">068255</field>
+            <field name="nombre_facturador">AUTOFIN AUTOS</field>
+            <field name="clave_de_facturador">A00164</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00165" model="actual.catalogo.convenio">
+            <field name="num_facturador">130509</field>
+            <field name="nombre_facturador">AUTO PARTES Y MAS</field>
+            <field name="clave_de_facturador">A00165</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00166" model="actual.catalogo.convenio">
+            <field name="num_facturador">003510</field>
+            <field name="nombre_facturador">IPF DIGITAL MEXICO</field>
+            <field name="clave_de_facturador">A00166</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00167" model="actual.catalogo.convenio">
+            <field name="num_facturador">025481</field>
+            <field name="nombre_facturador">IMPUESTO NOMINA BAJA CALIFORNI</field>
+            <field name="clave_de_facturador">A00167</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00168" model="actual.catalogo.convenio">
+            <field name="num_facturador">052094</field>
+            <field name="nombre_facturador">LICEO U PEDRO D GANTE UNIV</field>
+            <field name="clave_de_facturador">A00168</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIADO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00169" model="actual.catalogo.convenio">
+            <field name="num_facturador">003065</field>
+            <field name="nombre_facturador">AT&amp;T COMUNICACIONES DIGITALES</field>
+            <field name="clave_de_facturador">A00169</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00170" model="actual.catalogo.convenio">
+            <field name="num_facturador">002871</field>
+            <field name="nombre_facturador">CECA CRUZ AZUL</field>
+            <field name="clave_de_facturador">A00170</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00171" model="actual.catalogo.convenio">
+            <field name="num_facturador">064700</field>
+            <field name="nombre_facturador">LIBERTY FIANZAS</field>
+            <field name="clave_de_facturador">A00171</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00172" model="actual.catalogo.convenio">
+            <field name="num_facturador">011409</field>
+            <field name="nombre_facturador">CEA (AGUA DE QUERETARO)</field>
+            <field name="clave_de_facturador">A00172</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CONTRATO DEL USUARIO</field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00173" model="actual.catalogo.convenio">
+            <field name="num_facturador">002516</field>
+            <field name="nombre_facturador">PREVISION FINAL(NUEVOS CONTRAT</field>
+            <field name="clave_de_facturador">A00173</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00174" model="actual.catalogo.convenio">
+            <field name="num_facturador">066036</field>
+            <field name="nombre_facturador">MUTUALIDAD VIAL JALISCO PARTIC</field>
+            <field name="clave_de_facturador">A00174</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE AFILIADO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00175" model="actual.catalogo.convenio">
+            <field name="num_facturador">048151</field>
+            <field name="nombre_facturador">HARINERA DE YUCATAN</field>
+            <field name="clave_de_facturador">A00175</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00176" model="actual.catalogo.convenio">
+            <field name="num_facturador">083246</field>
+            <field name="nombre_facturador">PATRIMONIO MEXICO</field>
+            <field name="clave_de_facturador">A00176</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00177" model="actual.catalogo.convenio">
+            <field name="num_facturador">042124</field>
+            <field name="nombre_facturador">GOBIERNO EDO.DE MORELOS IMPUES</field>
+            <field name="clave_de_facturador">A00177</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE POLIZA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_a00178" model="actual.catalogo.convenio">
+            <field name="num_facturador">067914</field>
+            <field name="nombre_facturador">LA SALLE MATERIAL</field>
+            <field name="clave_de_facturador">A00178</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00001" model="actual.catalogo.convenio">
+            <field name="num_facturador">088924</field>
+            <field name="nombre_facturador">COMISION FEDERAL DE ELECTRICID</field>
+            <field name="clave_de_facturador">B00001</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">CODIGO DE BARRAS </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00002" model="actual.catalogo.convenio">
+            <field name="num_facturador">006944</field>
+            <field name="nombre_facturador">AGUA Y DRENAJE DE MONTERREY</field>
+            <field name="clave_de_facturador">B00002</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">REFERENCIA BANORTE </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00003" model="actual.catalogo.convenio">
+            <field name="num_facturador">002032</field>
+            <field name="nombre_facturador">GAS NATURAL MEXICO S.A.(MONTER</field>
+            <field name="clave_de_facturador">B00003</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/FECHA LIMITE DE PAGO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00004" model="actual.catalogo.convenio">
+            <field name="num_facturador">004392</field>
+            <field name="nombre_facturador">SKY</field>
+            <field name="clave_de_facturador">B00004</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2">NOMBRE COMPLETO DEL SUSCRIPTOR</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00005" model="actual.catalogo.convenio">
+            <field name="num_facturador">056115</field>
+            <field name="nombre_facturador">ADT PRIVATE SECURITY SERVICES</field>
+            <field name="clave_de_facturador">B00005</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00006" model="actual.catalogo.convenio">
+            <field name="num_facturador">006936</field>
+            <field name="nombre_facturador">AT&amp;T COMUNICACIONES DIGITALES</field>
+            <field name="clave_de_facturador">B00006</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00007" model="actual.catalogo.convenio">
+            <field name="num_facturador">083930</field>
+            <field name="nombre_facturador">IAL SA DE CV</field>
+            <field name="clave_de_facturador">B00007</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DEL CLIENTE COMPLETO</field>
+            <field name="referencia_2">NUMERO DE CLIENTE </field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00008" model="actual.catalogo.convenio">
+            <field name="num_facturador">045338</field>
+            <field name="nombre_facturador">ISSSTE SEGURO SALUD</field>
+            <field name="clave_de_facturador">B00008</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANORTE </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00009" model="actual.catalogo.convenio">
+            <field name="num_facturador">063204</field>
+            <field name="nombre_facturador">GRUPO SODEXO</field>
+            <field name="clave_de_facturador">B00009</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00010" model="actual.catalogo.convenio">
+            <field name="num_facturador">003647</field>
+            <field name="nombre_facturador">SECRETARIA DE FINANZAS RECAUDA</field>
+            <field name="clave_de_facturador">B00010</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">CONTRIBUYENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00011" model="actual.catalogo.convenio">
+            <field name="num_facturador">069585</field>
+            <field name="nombre_facturador">CONALEP MTY</field>
+            <field name="clave_de_facturador">B00011</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA 1 </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00012" model="actual.catalogo.convenio">
+            <field name="num_facturador">044272</field>
+            <field name="nombre_facturador">TRUPER</field>
+            <field name="clave_de_facturador">B00012</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">FACTURA </field>
+            <field name="referencia_2">NUMERO DE CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00013" model="actual.catalogo.convenio">
+            <field name="num_facturador">062675</field>
+            <field name="nombre_facturador">INSTITUTO DE LA JUVENTUD DE N.</field>
+            <field name="clave_de_facturador">B00013</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANCARIA </field>
+            <field name="referencia_2">NOMBRE Y APELLIDOS COMPLETOS</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00014" model="actual.catalogo.convenio">
+            <field name="num_facturador">009256</field>
+            <field name="nombre_facturador">SISTEMAS Y SERVICIOS DE COMUNI</field>
+            <field name="clave_de_facturador">B00014</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00015" model="actual.catalogo.convenio">
+            <field name="num_facturador">060990</field>
+            <field name="nombre_facturador">SEGUROS AFIRME DIGITAL</field>
+            <field name="clave_de_facturador">B00015</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">POLIZA </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00016" model="actual.catalogo.convenio">
+            <field name="num_facturador">070783</field>
+            <field name="nombre_facturador">FORJADORES DE NEGOCIOS</field>
+            <field name="clave_de_facturador">B00016</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00017" model="actual.catalogo.convenio">
+            <field name="num_facturador">003117</field>
+            <field name="nombre_facturador">COMPANIA MEXICANA DE GAS S.A.</field>
+            <field name="clave_de_facturador">B00017</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA BANORTE </field>
+            <field name="referencia_2">FOLIO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00018" model="actual.catalogo.convenio">
+            <field name="num_facturador">000973</field>
+            <field name="nombre_facturador">UNIVERSIDAD AUTONOMA DE DURANG</field>
+            <field name="clave_de_facturador">B00018</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00019" model="actual.catalogo.convenio">
+            <field name="num_facturador">002507</field>
+            <field name="nombre_facturador">CECYTE NUEVO LEON</field>
+            <field name="clave_de_facturador">B00019</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE COMPLETO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00020" model="actual.catalogo.convenio">
+            <field name="num_facturador">004335</field>
+            <field name="nombre_facturador">ESCUELA PROFESIONAL DE COMERCI</field>
+            <field name="clave_de_facturador">B00020</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00021" model="actual.catalogo.convenio">
+            <field name="num_facturador">142417</field>
+            <field name="nombre_facturador">TECNOLOGICO UNIVERSITARIO DE N</field>
+            <field name="clave_de_facturador">B00021</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00022" model="actual.catalogo.convenio">
+            <field name="num_facturador">109980</field>
+            <field name="nombre_facturador">UTHH UNIV TECNOLOGICA DE LA HU</field>
+            <field name="clave_de_facturador">B00022</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00023" model="actual.catalogo.convenio">
+            <field name="num_facturador">134014</field>
+            <field name="nombre_facturador">ITES LOS CABOS</field>
+            <field name="clave_de_facturador">B00023</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00024" model="actual.catalogo.convenio">
+            <field name="num_facturador">107284</field>
+            <field name="nombre_facturador">LA CRUZ AZUL SCL</field>
+            <field name="clave_de_facturador">B00024</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00025" model="actual.catalogo.convenio">
+            <field name="num_facturador">067651</field>
+            <field name="nombre_facturador">SIDERT</field>
+            <field name="clave_de_facturador">B00025</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2">NOMBRE COMPLETO DEL CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00026" model="actual.catalogo.convenio">
+            <field name="num_facturador">082124</field>
+            <field name="nombre_facturador">AGUA POTABLE (JAD MATAMOROS)</field>
+            <field name="clave_de_facturador">B00026</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">NUMERO DE CUENTA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00027" model="actual.catalogo.convenio">
+            <field name="num_facturador">118693</field>
+            <field name="nombre_facturador">CALIGRAFF</field>
+            <field name="clave_de_facturador">B00027</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DEL ALUMNO </field>
+            <field name="referencia_2">CARRERA</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00028" model="actual.catalogo.convenio">
+            <field name="num_facturador">006632</field>
+            <field name="nombre_facturador">IMPULSORA ELIZONDO S.A DE C.V</field>
+            <field name="clave_de_facturador">B00028</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CUENTA O REFERENCIA </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00029" model="actual.catalogo.convenio">
+            <field name="num_facturador">076292</field>
+            <field name="nombre_facturador">SOLUCIONES PARA PROYECTOS PROD</field>
+            <field name="clave_de_facturador">B00029</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00030" model="actual.catalogo.convenio">
+            <field name="num_facturador">127244</field>
+            <field name="nombre_facturador">ADE UCEM</field>
+            <field name="clave_de_facturador">B00030</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00031" model="actual.catalogo.convenio">
+            <field name="num_facturador">003848</field>
+            <field name="nombre_facturador">TECNOLOGICO CURSOS</field>
+            <field name="clave_de_facturador">B00031</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE COMPLETO </field>
+            <field name="referencia_2">CONCEPTO DE PAGO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00032" model="actual.catalogo.convenio">
+            <field name="num_facturador">004771</field>
+            <field name="nombre_facturador">UNIVERSIDAD DE OCCIDENTE CAMPU</field>
+            <field name="clave_de_facturador">B00032</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00033" model="actual.catalogo.convenio">
+            <field name="num_facturador">127705</field>
+            <field name="nombre_facturador">TRANSNAGAR PACIFICO SUR</field>
+            <field name="clave_de_facturador">B00033</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CONTRATO </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00034" model="actual.catalogo.convenio">
+            <field name="num_facturador">082045</field>
+            <field name="nombre_facturador">INTERAPAS SLP</field>
+            <field name="clave_de_facturador">B00034</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">CONTRATO </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00035" model="actual.catalogo.convenio">
+            <field name="num_facturador">004769</field>
+            <field name="nombre_facturador">UNIVERSIDAD DE OCCIDENTE CAMPU</field>
+            <field name="clave_de_facturador">B00035</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00036" model="actual.catalogo.convenio">
+            <field name="num_facturador">027843</field>
+            <field name="nombre_facturador">UNIVERSIDAD DE MORELIA A.C.</field>
+            <field name="clave_de_facturador">B00036</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">LINEA DE CAPTURA</field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00037" model="actual.catalogo.convenio">
+            <field name="num_facturador">019208</field>
+            <field name="nombre_facturador">HERMANOS BATTA</field>
+            <field name="clave_de_facturador">B00037</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00038" model="actual.catalogo.convenio">
+            <field name="num_facturador">064137</field>
+            <field name="nombre_facturador">OPAM</field>
+            <field name="clave_de_facturador">B00038</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE COMPLETO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00039" model="actual.catalogo.convenio">
+            <field name="num_facturador">142910</field>
+            <field name="nombre_facturador">TECNOLOGICO UNIVERSITARIO DE A</field>
+            <field name="clave_de_facturador">B00039</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00040" model="actual.catalogo.convenio">
+            <field name="num_facturador">066322</field>
+            <field name="nombre_facturador">RED DE SERVICIOS FINANCIEROS N</field>
+            <field name="clave_de_facturador">B00040</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CREDITO </field>
+            <field name="referencia_2">MONTO CUOTA</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00041" model="actual.catalogo.convenio">
+            <field name="num_facturador">044406</field>
+            <field name="nombre_facturador">UNIVERSIDAD INTERCULTURAL DE S</field>
+            <field name="clave_de_facturador">B00041</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DEL COLEGIO </field>
+            <field name="referencia_2">CLAVE DEL COLEGIO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00042" model="actual.catalogo.convenio">
+            <field name="num_facturador">054111</field>
+            <field name="nombre_facturador">ADMINIGAS</field>
+            <field name="clave_de_facturador">B00042</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA DE SERVICIO </field>
+            <field name="referencia_2">NUMERO DE CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00043" model="actual.catalogo.convenio">
+            <field name="num_facturador">141464</field>
+            <field name="nombre_facturador">RECINTO FUNERAL LOPEZ AQUINO</field>
+            <field name="clave_de_facturador">B00043</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE REFERENCIA </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00044" model="actual.catalogo.convenio">
+            <field name="num_facturador">105056</field>
+            <field name="nombre_facturador">PARA TODO RECEPCION</field>
+            <field name="clave_de_facturador">B00044</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CLAVE DEL CLIENTE </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00045" model="actual.catalogo.convenio">
+            <field name="num_facturador">020576</field>
+            <field name="nombre_facturador">UACJ INSCRIPCIONES</field>
+            <field name="clave_de_facturador">B00045</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00046" model="actual.catalogo.convenio">
+            <field name="num_facturador">106423</field>
+            <field name="nombre_facturador">INSTITUTO MARILLAC</field>
+            <field name="clave_de_facturador">B00046</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE ALUMNO </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00047" model="actual.catalogo.convenio">
+            <field name="num_facturador">082293</field>
+            <field name="nombre_facturador">AGUA POTABLE (CHIHUAHUA)</field>
+            <field name="clave_de_facturador">B00047</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CONTRATO</field>
+            <field name="referencia_2">LINEA DE CAPTURA </field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_b00048" model="actual.catalogo.convenio">
+            <field name="num_facturador">002418</field>
+            <field name="nombre_facturador">GAS NATURAL DE CD.JUAREZ</field>
+            <field name="clave_de_facturador">B00048</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/FECHA LIMITE DE PAGO</field>
+            <field name="referencia_1">NUMERO DE CUENTA </field>
+            <field name="referencia_2"></field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00001" model="actual.catalogo.convenio">
+            <field name="num_facturador">129811</field>
+            <field name="nombre_facturador">SEGUROS BANORTE(PAGO DE POLIZA</field>
+            <field name="clave_de_facturador">C00001</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/FECHA LIMITE DE PAGO</field>
+            <field name="referencia_1">CODIGO DE BARRAS </field>
+            <field name="referencia_2">NOMBRE DEL CONTRATANTE</field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00002" model="actual.catalogo.convenio">
+            <field name="num_facturador">027868</field>
+            <field name="nombre_facturador">CECYTEA</field>
+            <field name="clave_de_facturador">C00002</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA CECAD </field>
+            <field name="referencia_2">FOLIO</field>
+            <field name="referencia_3">NOMBRE</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00003" model="actual.catalogo.convenio">
+            <field name="num_facturador">127029</field>
+            <field name="nombre_facturador">UTT TORREON</field>
+            <field name="clave_de_facturador">C00003</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_3">CONCEPTO DE PAGO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00004" model="actual.catalogo.convenio">
+            <field name="num_facturador">107491</field>
+            <field name="nombre_facturador">UAT TLAXCALA</field>
+            <field name="clave_de_facturador">C00004</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">DEPARTAMENTO</field>
+            <field name="referencia_3">NOMBRE</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00005" model="actual.catalogo.convenio">
+            <field name="num_facturador">004368</field>
+            <field name="nombre_facturador">CUENTA MAESTRA (FACTURA T.DE M</field>
+            <field name="clave_de_facturador">C00005</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CUENTA MAESTRA </field>
+            <field name="referencia_2">NOMBRE/RAZON SOCIAL</field>
+            <field name="referencia_3">CODIGO DE BARRAS</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00006" model="actual.catalogo.convenio">
+            <field name="num_facturador">028999</field>
+            <field name="nombre_facturador">SEGUROS BANORTE SINIESTROS</field>
+            <field name="clave_de_facturador">C00006</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">DEDUCIBLE/RECUPER.(1 LETRA)</field>
+            <field name="referencia_3">CAPTURA DM O RC (SON 2 LETRAS)</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00007" model="actual.catalogo.convenio">
+            <field name="num_facturador">142001</field>
+            <field name="nombre_facturador">AVALUOS BANORTE</field>
+            <field name="clave_de_facturador">C00007</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">FOLIO CREA(BANORTE) </field>
+            <field name="referencia_2">RFC</field>
+            <field name="referencia_3">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00008" model="actual.catalogo.convenio">
+            <field name="num_facturador">015777</field>
+            <field name="nombre_facturador">SEGUROS AFIRME SA DE CV</field>
+            <field name="clave_de_facturador">C00008</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO RECIBO </field>
+            <field name="referencia_2">POLIZA</field>
+            <field name="referencia_3">NOMBRE DEL ASEGURADO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00009" model="actual.catalogo.convenio">
+            <field name="num_facturador">005058</field>
+            <field name="nombre_facturador">UNIVERSIDAD AUT.DE QUERETARO</field>
+            <field name="clave_de_facturador">C00009</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA 1 </field>
+            <field name="referencia_2">REFERENCIA 2 </field>
+            <field name="referencia_3"></field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00010" model="actual.catalogo.convenio">
+            <field name="num_facturador">051370</field>
+            <field name="nombre_facturador">COBAEZ</field>
+            <field name="clave_de_facturador">C00010</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">NOMBRE ALUMNO</field>
+            <field name="referencia_3">CONCEPTOS</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00011" model="actual.catalogo.convenio">
+            <field name="num_facturador">009016</field>
+            <field name="nombre_facturador">IMPUESTOS DERECHOS GOBIERNO ED</field>
+            <field name="clave_de_facturador">C00011</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">RFC O NUMERO DE PLACA</field>
+            <field name="referencia_3">NOMBRE</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00012" model="actual.catalogo.convenio">
+            <field name="num_facturador">094385</field>
+            <field name="nombre_facturador">BIENESTAR METROPOLITANA</field>
+            <field name="clave_de_facturador">C00012</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE SOCIO </field>
+            <field name="referencia_2">NOMBRE DE SOCIO</field>
+            <field name="referencia_3">CONCEPTO DE PAGO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00013" model="actual.catalogo.convenio">
+            <field name="num_facturador">059090</field>
+            <field name="nombre_facturador">GRUPO VANJUPE</field>
+            <field name="clave_de_facturador">C00013</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2">NOMBRE DEL DEPOSITANTE</field>
+            <field name="referencia_3">NUMERO DE PEDIDO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00014" model="actual.catalogo.convenio">
+            <field name="num_facturador">114375</field>
+            <field name="nombre_facturador">CONALEP INSCRIPCIONES</field>
+            <field name="clave_de_facturador">C00014</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">PLANTEL</field>
+            <field name="referencia_3">NOMBRE</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00015" model="actual.catalogo.convenio">
+            <field name="num_facturador">115759</field>
+            <field name="nombre_facturador">CONALEP CENTRO EVALUADOR CAJAS</field>
+            <field name="clave_de_facturador">C00015</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">PLANTEL</field>
+            <field name="referencia_3">NOMBRE</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00016" model="actual.catalogo.convenio">
+            <field name="num_facturador">049854</field>
+            <field name="nombre_facturador">TECNOLOGICO NACIONAL DE MEXICO</field>
+            <field name="clave_de_facturador">C00016</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CONTROL </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_3">CONCEPTO DE PAGO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00017" model="actual.catalogo.convenio">
+            <field name="num_facturador">067524</field>
+            <field name="nombre_facturador">UNIVERSIDAD POLITECNICA DE GOM</field>
+            <field name="clave_de_facturador">C00017</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">APELLIDOS Y NOMBRE DE ALUMNO</field>
+            <field name="referencia_3">CONCEPTO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00018" model="actual.catalogo.convenio">
+            <field name="num_facturador">037238</field>
+            <field name="nombre_facturador">PAPELERA DEL NORTE FACTURAS</field>
+            <field name="clave_de_facturador">C00018</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CUENTA CLIENTE </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3">NUMERO DE FACTURA</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00019" model="actual.catalogo.convenio">
+            <field name="num_facturador">096491</field>
+            <field name="nombre_facturador">COBAT NUEVO LAREDO</field>
+            <field name="clave_de_facturador">C00019</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">SEMESTRE </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO COMPLETO</field>
+            <field name="referencia_3">CONCEPTO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00020" model="actual.catalogo.convenio">
+            <field name="num_facturador">028829</field>
+            <field name="nombre_facturador">CENTRO UNIVERSITARIO SIGLO XX1</field>
+            <field name="clave_de_facturador">C00020</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DEL ALUMNO </field>
+            <field name="referencia_2">CONCEPTO DE PAGO</field>
+            <field name="referencia_3">CONTRASENA</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00021" model="actual.catalogo.convenio">
+            <field name="num_facturador">133841</field>
+            <field name="nombre_facturador">CECATI 42</field>
+            <field name="clave_de_facturador">C00021</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DEL ALUMNO </field>
+            <field name="referencia_2">NOMBRE DEL CURSO</field>
+            <field name="referencia_3">HORARIO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00022" model="actual.catalogo.convenio">
+            <field name="num_facturador">136121</field>
+            <field name="nombre_facturador">PLANTEL 1 SOLEDAD</field>
+            <field name="clave_de_facturador">C00022</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DEL ALUMNO </field>
+            <field name="referencia_2">CONCEPTO DE PAGO</field>
+            <field name="referencia_3">SEMESTRE</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00023" model="actual.catalogo.convenio">
+            <field name="num_facturador">018837</field>
+            <field name="nombre_facturador">VDE</field>
+            <field name="clave_de_facturador">C00023</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3">FACTURA</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_c00024" model="actual.catalogo.convenio">
+            <field name="num_facturador">057295</field>
+            <field name="nombre_facturador">ESCUELA NORMAL DEL ESTADO SLP</field>
+            <field name="clave_de_facturador">C00024</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE MATRICULA </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3">IMPORTE</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00001" model="actual.catalogo.convenio">
+            <field name="num_facturador">015901</field>
+            <field name="nombre_facturador">COBACH</field>
+            <field name="clave_de_facturador">D00001</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE PLANTEL </field>
+            <field name="referencia_2">NUMERO DE MATRICULA</field>
+            <field name="referencia_3">NUMERO DE SEMESTRE</field>
+            <field name="referencia_4">NOMBRE DEL ALUMNO</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00002" model="actual.catalogo.convenio">
+            <field name="num_facturador">022285</field>
+            <field name="nombre_facturador">CONSULTA TELECOMM</field>
+            <field name="clave_de_facturador">D00002</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">FECHA </field>
+            <field name="referencia_2">TERMINAL ID</field>
+            <field name="referencia_3">NUMERO DE SUCURSAL</field>
+            <field name="referencia_4">NUMERO DE PLASTICO</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00003" model="actual.catalogo.convenio">
+            <field name="num_facturador">081347</field>
+            <field name="nombre_facturador">SEGUROS MONTERREY NEW YORK LIF</field>
+            <field name="clave_de_facturador">D00003</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">RECIBO UNICO DE PAGO </field>
+            <field name="referencia_2">RECIBO (CONTINUA)</field>
+            <field name="referencia_3">MONTO ORIGINAL ENTRE FACTOR</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00004" model="actual.catalogo.convenio">
+            <field name="num_facturador">136042</field>
+            <field name="nombre_facturador">UANE DESCUENTO DEL 6%</field>
+            <field name="clave_de_facturador">D00004</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">REFERENCIA 2</field>
+            <field name="referencia_3">REFERENCIA 3</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00005" model="actual.catalogo.convenio">
+            <field name="num_facturador">015793</field>
+            <field name="nombre_facturador">VIANNEY</field>
+            <field name="clave_de_facturador">D00005</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CLIENTE </field>
+            <field name="referencia_2">NOMBRE DEL CLIENTE</field>
+            <field name="referencia_3">CONCEPTO</field>
+            <field name="referencia_4">CIUDAD DONDE HACE EL DEPOSITO</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00006" model="actual.catalogo.convenio">
+            <field name="num_facturador">116440</field>
+            <field name="nombre_facturador">SUPER COLCHONES</field>
+            <field name="clave_de_facturador">D00006</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NUMERO DE CORTE </field>
+            <field name="referencia_2">SUCURSAL</field>
+            <field name="referencia_3">NOMBRE DEL EMPLEADO</field>
+            <field name="referencia_4">PLAZA</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00007" model="actual.catalogo.convenio">
+            <field name="num_facturador">015615</field>
+            <field name="nombre_facturador">UNIVERSIDAD TAMAULIPECA (RIO B</field>
+            <field name="clave_de_facturador">D00007</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">FOLIO</field>
+            <field name="referencia_3">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_4">CARRERA</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00008" model="actual.catalogo.convenio">
+            <field name="num_facturador">037333</field>
+            <field name="nombre_facturador">TECNOLOGICO DE ACAPULCO (VARIO</field>
+            <field name="clave_de_facturador">D00008</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA </field>
+            <field name="referencia_2">NUMERO DE CONTROL</field>
+            <field name="referencia_3">CONCEPTO</field>
+            <field name="referencia_4">NOMBRE</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00009" model="actual.catalogo.convenio">
+            <field name="num_facturador">037070</field>
+            <field name="nombre_facturador">RECEPCION DE PAGO CEDULAR</field>
+            <field name="clave_de_facturador">D00009</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">LINEA DE CAPTURA </field>
+            <field name="referencia_2">TIPO DE CONTRIBUCION</field>
+            <field name="referencia_3">NOMBRE DEL CONTRIBUYENTE</field>
+            <field name="referencia_4">PERIODO</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00010" model="actual.catalogo.convenio">
+            <field name="num_facturador">075083</field>
+            <field name="nombre_facturador">IMPODE SLP</field>
+            <field name="clave_de_facturador">D00010</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">CLAVE DE USUARIO </field>
+            <field name="referencia_2">NOMBRE</field>
+            <field name="referencia_3">HORARIO</field>
+            <field name="referencia_4">CONCEPTO</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00011" model="actual.catalogo.convenio">
+            <field name="num_facturador">069630</field>
+            <field name="nombre_facturador">CECYTED</field>
+            <field name="clave_de_facturador">D00011</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DEL ALUMNO </field>
+            <field name="referencia_2">NUMERO DE MATRICULA</field>
+            <field name="referencia_3">CONCEPTO DE PAGO</field>
+            <field name="referencia_4">LOCALIDAD DEL PLANTEL</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00012" model="actual.catalogo.convenio">
+            <field name="num_facturador">072228</field>
+            <field name="nombre_facturador">CONSEJO JUDICATURA FEDERAL</field>
+            <field name="clave_de_facturador">D00012</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">REFERENCIA 1 </field>
+            <field name="referencia_2">REFERENCIA 2</field>
+            <field name="referencia_3">REFERENCIA 3</field>
+            <field name="referencia_4">REFERENCIA 4</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00013" model="actual.catalogo.convenio">
+            <field name="num_facturador">032228</field>
+            <field name="nombre_facturador">UPEM TECAMAC</field>
+            <field name="clave_de_facturador">D00013</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">NIVEL O MODULO</field>
+            <field name="referencia_3">CLAVE DE CONCEPTO</field>
+            <field name="referencia_4"></field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00014" model="actual.catalogo.convenio">
+            <field name="num_facturador">015320</field>
+            <field name="nombre_facturador">UTC</field>
+            <field name="clave_de_facturador">D00014</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DEL ALUMNO </field>
+            <field name="referencia_2">MATRICULA</field>
+            <field name="referencia_3">CARRERA</field>
+            <field name="referencia_4">CONCEPTO</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_d00015" model="actual.catalogo.convenio">
+            <field name="num_facturador">061155</field>
+            <field name="nombre_facturador">DISTRILIBROS DE TAMPICO</field>
+            <field name="clave_de_facturador">D00015</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">NO</field>
+            <field name="referencia_1">NOMBRE DE LA ESCUELA </field>
+            <field name="referencia_2">GRADO DEL ALUMNO</field>
+            <field name="referencia_3">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_4">CONCEPTO</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_e00001" model="actual.catalogo.convenio">
+            <field name="num_facturador">040654</field>
+            <field name="nombre_facturador">UNIVERSIDAD ITAG</field>
+            <field name="clave_de_facturador">E00001</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">MATRICULA </field>
+            <field name="referencia_2">NOMBRE DEL ALUMNO</field>
+            <field name="referencia_3">CONCEPTO</field>
+            <field name="referencia_4">FOLIO</field>
+            <field name="banco">banorte</field>
+        </record>
+        <record id="banorte_convenio_e00002" model="actual.catalogo.convenio">
+            <field name="num_facturador">027628</field>
+            <field name="nombre_facturador">ESTACIONOMETROS GUADALAJARA</field>
+            <field name="clave_de_facturador">E00002</field>
+            <field name="forma_de_pago">04</field>
+            <field name="fecha_de_vencimiento_obligatoria">SI/ FECHA DE VENCIMIENTO</field>
+            <field name="referencia_1">NUMERO DE FOLIO </field>
+            <field name="referencia_2">NUMERO DE PLACAS</field>
+            <field name="referencia_3">NUMERO DE CLAVE</field>
+            <field name="referencia_4">FECHA DE FOLIO</field>
+            <field name="banco">banorte</field>
+        </record>
+    </data>
+</odoo>

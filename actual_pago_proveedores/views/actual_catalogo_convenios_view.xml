@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="actual_catalogos_convenios_view_tree" model="ir.ui.view">
+        <field name="name">actual.catalogo.convenio.view.tree</field>
+        <field name="model">actual.catalogo.convenio</field>
+        <field name="arch" type="xml">
+            <tree string="Catálogo convenios">
+
+                <field name="nombre_facturador" />
+                <field name="num_facturador" />
+                <field name="clave_de_facturador" />
+                <field name="forma_de_pago" />
+                <field name="fecha_de_vencimiento_obligatoria" />
+                <field name="referencia_1" />
+                <field name="referencia_2" />
+                <field name="referencia_3" />
+                <field name="referencia_4" />
+
+            </tree>
+        </field>
+    </record>
+
+
+    <record id="actual_catalogos_convenios_view_form" model="ir.ui.view">
+        <field name="name">actual.catalogo.convenio.view.form</field>
+        <field name="model">actual.catalogo.convenio</field>
+        <field name="arch" type="xml">
+            <form>
+                <sheet>
+                    <group>
+                        <h1>
+                            <field name="name" />
+                            <field name="nombre_facturador" />
+                        </h1>
+                        <group>
+                            <field name="num_facturador" />
+                            <field name="clave_de_facturador" />
+                            <field name="forma_de_pago" />
+                            <field name="fecha_de_vencimiento_obligatoria" />
+
+                        </group>
+
+                        <group>
+                            <field name="referencia_1" />
+                            <field name="referencia_2" />
+                            <field name="referencia_3" />
+                            <field name="referencia_4" />
+
+                        </group>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+
+    <record id="actual_catalogo_convenio_view_search" model="ir.ui.view">
+        <field name="name">actual.catalogo.convenio.view.search</field>
+        <field name="model">actual.catalogo.convenio</field>
+        <field name="arch" type="xml">
+            <search string="">
+
+                <field name="name" />
+                <field name="nombre_facturador" />
+                <field name="num_facturador" />
+                <field name="clave_de_facturador" />
+                <field name="forma_de_pago" />
+
+            </search>
+        </field>
+    </record>
+
+
+</odoo>

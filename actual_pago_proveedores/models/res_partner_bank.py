@@ -28,3 +28,11 @@ class ResPartnerBank(models.Model):
             ("120", "TdC Amex"),
         ]
     )
+
+    convenio_id = fields.Many2one(
+        "actual.catalogo.convenio",
+        string="convenio",
+    )
+
+    es_tipo_convenio = fields.Boolean()
+

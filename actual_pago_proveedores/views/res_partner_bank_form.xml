@@ -12,6 +12,10 @@
                 <field name="tipo" />
                 <field name="tipo_cuenta" />
 
+                <hr/>
+
+                <field name="es_tipo_convenio" />
+                <field name="convenio_id" />
 
             </xpath>
         </field>
