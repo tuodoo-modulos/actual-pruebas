@@ -18,7 +18,7 @@ class ActualWizardPagos(models.Model):
     )
 
     def pago_simplificado(self):
-        return PagoSimplificadoBanorte(self.env).generar_pagos()
+        return PagoSimplificadoBanorte(self.env, self).generar_pagos()
 
     def pago_convenio(self):
         return PagoConvenioBanorte(self.env).generar_pagos()
